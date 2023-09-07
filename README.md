@@ -181,7 +181,7 @@ Click on "get live item count"
 <br><br>
 It is showing 2 items here because i ran it twice 
 <br><br>
-No we have made a serverless API using API Gateway , Lambda and DynamoDB
+No we have made a serverless microservice using API Gateway , Lambda and DynamoDB
 <br><br>
 **Cleanup** 
 <br><br>
