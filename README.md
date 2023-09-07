@@ -1,6 +1,6 @@
 # serverless-microservice
 
-In this project , I made a serverless API using API Gateway , Lambda and DynamoDB
+In this project , I made a serverless microservice using API Gateway , Lambda and DynamoDB
 
 I made a resource DynamoDBManager and defined POST method on it . The method is backed by a lambda function which is invoked by the lambda function 
 
